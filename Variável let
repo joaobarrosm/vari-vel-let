@@ -1,0 +1,11 @@
+/Não podemos criar variáveis com palavras reservadas.
+//Variáveis precisam ter nomes significativos.
+//Abreviar o termo "nome" fara a função let funcionar igual.
+//termo "nomeCliente" pode ser usado para determinar o valor do termo utilizado.
+let nomeCliente = 'Babis';
+console.log(nomeCliente );
+
+//Não pode começar o nome de uma variável com número.
+//por convenção, utilizamos camelCase
+//Case-sensitive
+//Não podemos redeclarar variáveis com let
